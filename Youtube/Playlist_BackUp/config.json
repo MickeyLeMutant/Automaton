@@ -1,0 +1,16 @@
+{
+    "schedule": {
+        "start": "reduceDownloadSpeedStart",
+        "end": "reduceDownloadSpeedEnd"
+    },
+    "playlist": [
+        {
+            "directory": "playlist1Name",
+            "url": "playlist1URL"
+        },
+        {
+            "directory": "playlist2Name",
+            "url": "playlist2URL"
+        }
+    ]
+}
